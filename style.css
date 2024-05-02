@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(255, 225, 144);
+    margin: auto;
+}
+
+.heading {
+
+    margin-top: .2in;
+    margin-left: 1in;
+    margin-right: 1in;
+    border: solid 15px;
+    border-color: black;
+    text-align: center;
+    color: rgb(136, 132, 78);
+    font-size: 35px;
+    
+}
+
+.Recipes{
+    font-size: 40px;
+    text-align: center;
+    align-items: center;
+
+
+}
+
+.myUL {
+    margin-top: 1in;
+    display: inline-block;
+    text-align: left;
+
+
+}
